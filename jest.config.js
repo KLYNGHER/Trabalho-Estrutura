@@ -12,13 +12,6 @@ const config = {
   testPathIgnorePatterns: [
     "/node_modules/"
   ],
-  transform: {
-    "^.+\\.jsx?$": "babel-jest"
-  },
-  transformIgnorePatterns: [
-    "/node_modules/",
-    "\\.pnp\\.[^\\/]+$"
-  ],
   watchman: true,
 };
 
