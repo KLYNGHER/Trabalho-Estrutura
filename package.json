@@ -52,6 +52,7 @@
     "deepmerge": "^4.3.1",
     "detect-newline": "^3.1.0",
     "diff-sequences": "^29.6.3",
+    "docjs": "^0.0.1",
     "electron-to-chromium": "^1.5.1",
     "emittery": "^0.13.1",
     "emoji-regex": "^8.0.0",
