@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1722199126957" clover="3.2.0">
-  <project timestamp="1722199126957" name="All files">
+<coverage generated="1722199273370" clover="3.2.0">
+  <project timestamp="1722199273371" name="All files">
     <metrics statements="313" coveredstatements="313" conditionals="65" coveredconditionals="65" methods="19" coveredmethods="19" elements="397" coveredelements="397" complexity="0" loc="313" ncloc="313" packages="1" files="7" classes="7"/>
     <file name="Maze.js" path="/Users/klyngheremidio/Desktop/trabalho estrutura/src/Maze.js">
       <metrics statements="78" coveredstatements="78" conditionals="18" coveredconditionals="18" methods="4" coveredmethods="4"/>
