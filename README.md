@@ -16,23 +16,20 @@ Este repositório contém o trabalho de Estrutura de Dados, implementado em Java
    git clone https://github.com/KLYNGHER/Trabalho-Estrutura.git
 
 2. Navegue até o diretório do projeto:
-  ```sh
+   
     cd Trabalho-Estrutura
 
 4. Instale o NPM
- ```sh
+   
    npm install
- ```sh
 6. Instale as dependências:
- ```sh
+   
    npm init -y
 
 6.Instalação do Jest
-    ```sh
    npm install --save-dev jest
 
 ## USO
-    ```sh
+
    npm run test
- ```sh
    npm test
