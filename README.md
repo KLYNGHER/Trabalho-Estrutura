@@ -30,6 +30,7 @@ Este repositório contém o trabalho de Estrutura de Dados, implementado em Java
    npm install --save-dev jest
 
 ## USO
-
+```sh
    npm run test
+
    npm test
