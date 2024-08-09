@@ -18,7 +18,7 @@ describe('SecondLargestFinder', () => {
    */
   test('finds the second largest number with duplicates', () => {
     const finder = new SecondLargestFinder([10, 20, 20, 30, 30]);
-    expect(finder.findSecondLargest()).toBe(20);
+    expect(finder.findSecondLargest()).toEqual(20);
   });
 
   /**
